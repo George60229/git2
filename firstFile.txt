@@ -4,7 +4,7 @@ free-edit
 four-edit
 five
 six
-seven
-eight
+seven-edit
+eight-edit
 nine
 ten
