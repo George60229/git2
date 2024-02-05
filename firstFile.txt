@@ -1,7 +1,7 @@
 one
 two
-free
-four
+free-edit
+four-edit
 five
 six
 seven
